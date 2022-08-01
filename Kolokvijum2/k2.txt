@@ -1,0 +1,1 @@
+ToDO: Izvrsiti aproksimaciju visine prosecne kolicine secera u krvi (atribut avg_glucose_level) na osnovu broja godina pacijenta (atribut age). Iskomentarisati da li postoji zavisnost ove dve velicine ili ne, na osnovu iscrtanog grafika. Nakon toga proveriti kolika bi bila prosecna kolicina secera u krvi za osobe koje imaju 25, 45 i 65 godina starosti.
